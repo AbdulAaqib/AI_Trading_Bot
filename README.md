@@ -1,4 +1,4 @@
-# AI_Trading_Bot
+# AI Trading Bot
  
 •	Developed an AI Trading Bot with a notable Cumulative Return of 230%. Utilized the Finbert Sentiment Analysis NLP model to analyse stock sentiment and inform trading decisions. Leveraged the NLP model's output to determine whether to execute positive or negative sentiment trades. 
 
